@@ -84,3 +84,6 @@ Thumbs.db
 # Word documents (if they contain sensitive data)
 *.docx
 *.doc
+
+# Test files with sensitive data
+test.py
